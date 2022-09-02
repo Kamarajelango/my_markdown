@@ -1,0 +1,25 @@
+
+.App{
+    display: flex;
+}
+  
+.textarea{
+    width: 50%;
+    height: 100vh;
+   padding: 20px;  
+   outline: none;
+  
+}
+
+.markdown{
+    width: 50%;
+    height: 100vh;
+    padding: 20px;
+    outline: none;
+   /* background: black;
+   color:white;
+   font-size: 30px; */
+}
+.gap{
+    margin-top: 50px;
+}
